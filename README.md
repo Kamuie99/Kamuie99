@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm interested in Front_end skills.
+I'm Studying at SSAFY_11th
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamuie99&show_icons=true&theme=transparent)
+
 <!--
 **Kamuie99/Kamuie99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamuie99&show_icons=true&theme=transparent)
