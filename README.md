@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm interested in Front_end skills.
+I'm interested in Front_end skills. \n
 I'm Studying at SSAFY_11th
 
 
