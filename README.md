@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
  
-<strong> 웹 프론트엔드 개발자, 이유찬 입니다! </strong> 
+<strong> 웹 프론트엔드 개발자, 희차닝구! </strong> 
 <br/>
 Web FrontEnd Developer!
 <br/><br/>
