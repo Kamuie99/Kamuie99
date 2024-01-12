@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=#E3ACF9&height=200&section=header&text=Hello&desc=I'm%20SugarSyrup&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
 
 <div align=center>
 <!--소개-->
