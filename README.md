@@ -45,10 +45,6 @@ Web FrontEnd Developer!
  <!--공부중 -->
  
   <strong> Studying :pencil2: </strong> 
-
-
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamuie99&show_icons=true&theme=transparent)
  
  
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -58,3 +54,7 @@ Web FrontEnd Developer!
   <!--백-->
   <br/>
  <!--언어 및 툴 --> <br/>
+
+
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamuie99&show_icons=true&theme=transparent)
