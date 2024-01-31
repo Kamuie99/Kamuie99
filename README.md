@@ -50,7 +50,10 @@ Web FrontEnd Developer!
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <!--백-->
-  <br/><br/><br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
  <!--언어 및 툴 --> <br/>
  
 
