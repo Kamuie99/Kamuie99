@@ -54,7 +54,7 @@ Web FrontEnd Developer!
   <!--백-->
   <br/>
  <!--언어 및 툴 --> <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamuie99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
