@@ -54,14 +54,10 @@ Web FrontEnd Developer!
   <br/>
   <br/>
   <br/>
- <!--언어 및 툴 --> <br/>
- 
-
 
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamuie99&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_title=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamuie99&hide=jupyter%20notebook&layout=compact)
 
-   <br/>
    <br/>
 
    ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
