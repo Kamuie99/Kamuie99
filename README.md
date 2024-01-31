@@ -55,11 +55,10 @@ Web FrontEnd Developer!
   <br/>
  <!--언어 및 툴 --> <br/>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamuie99&layout=compact)
 
 
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamuie99&show_icons=true&theme=transparent)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamuie99&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamuie99&layout=compact)
 
    <br/>
    <br/>
