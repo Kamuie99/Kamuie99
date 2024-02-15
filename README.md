@@ -9,7 +9,7 @@
 <br/>
 
 <p text-align="center">
-    🦁 LIKELION univ 11th FrontEnd (2023.3 ~ 2024.1)    
+    🦁 LIKELION_univ 11th (2023.3 ~ 2024.1)    
     
 🏢 SSAFY 11th (2024.1 ~ )
 </p>
