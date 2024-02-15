@@ -48,8 +48,7 @@
   
 
 <!-- 깃허브 스탯-->
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamuie99&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_title=true)  
-   <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamuie99&hide=jupyter%20notebook&layout=compact)-->
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamuie99&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_title=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamuie99&hide=jupyter%20notebook&layout=compact)
 
    <br/>
 
