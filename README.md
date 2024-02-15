@@ -1,7 +1,9 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
+<div align=center>
 <!--소개-->
- 
+
 <h3 align="center">👋 안녕하세요! 웹 프론트엔드 개발자, 희차니입니다!</h2>
 <h5>Hi! I'm FE_Developer_Heechan!</h5>
 <br/><br/>
