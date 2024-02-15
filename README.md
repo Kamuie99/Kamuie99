@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
  
-<strong> 웹 프론트엔드 개발자, 희차니입니다! </strong> 
+<strong> ## 웹 프론트엔드 개발자, 희차니입니다! </strong> 
 <br/>
 Web FrontEnd Developer!
 <br/><br/>
