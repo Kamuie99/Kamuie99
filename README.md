@@ -4,10 +4,19 @@
 <div align=center>
 <!--소개-->
 
-<h3 align="center">👋 안녕하세요! 웹 프론트엔드 개발자, 희차니입니다!</h2>
-<h5>Hi! I'm FE_Developer_Heechan!</h5>
-<br/><br/>
- 
+<h2 align="center">👋 안녕하세요! 웹 프론트엔드 개발자, 희차니입니다!</h2>
+
+<br/>
+
+<p text-align="center">
+    🏢 Dept. of Computer Science and Engineering (2018.3 ~ )
+  
+    🦁 LIKELION univ 11th FrontEnd (2023.3 ~ 2024.2)
+    
+    🏢 SSAFY 11th (2024.1 ~ )
+</p>
+<br/>
+<hr>
  
  <!--기술스택-->
   <strong> Skill :four_leaf_clover: </strong>
