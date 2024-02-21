@@ -4,7 +4,7 @@
 <div align=center>
 <!--소개-->
 
-<h3 align="center">👋 안녕하세요! 웹 프론트엔드 개발자, 희차니입니다!</h3>
+<h3 align="center">👋 안녕하세요! 웹 개발자, 희차니입니다!</h3>
 
 <br/>
 
