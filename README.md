@@ -11,7 +11,7 @@
 <p text-align="center">
     🦁 LIKELION_univ 11th (2023.3 ~ 2024.1)    
     
-🏢 SSAFY 11th (2024.1 ~ 2024.12 )
+🏢 Samsung Software Academy For Youth 11th (2024.1 ~ 2024.12 )
 
 🏢 Famecs SW Engineer (2025. 1 ~ )
 </p>
