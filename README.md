@@ -30,7 +30,7 @@
   
   <!--백-->
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Csharp-C%23-000000?&style=flat-square&logo=Csharp&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
   </br>
   <!--번들러 -->
   </br>
