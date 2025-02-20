@@ -4,7 +4,7 @@
 <div align=center>
 <!--소개-->
 
-<h3 align="center">👋 Hello! I'm Developer, LeeYuchan</h3>
+<h3 align="center">👋 Hello! I'm SW Engineer, LeeYuchan</h3>
 
 <br/>
 
